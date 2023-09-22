@@ -22,7 +22,6 @@ Sage Student Management System is a web-based application developed as part of m
 - User authentication with roles (admin, teacher, student)
 - CRUD operations for managing students, courses, and grades
 - Role-based access control for different user types
-- Dashboard with data visualization and statistics
 - Responsive design for seamless use on various devices
 
 ## Technologies Used
