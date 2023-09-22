@@ -1,0 +1,16 @@
+.logo-image {
+  height: 160px; /* Adjust this value as needed to make the logo larger */
+  /* Other styling properties specific to the logo here if desired */
+  margin-top: 15px;
+  padding: 0px;
+  display: flex;
+  align-items: center; /* Vertically center the logo */
+}
+.show-button {
+  display: inline-block;
+}
+
+.hide-button {
+  display: none;
+}
+
