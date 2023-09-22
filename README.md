@@ -31,14 +31,13 @@ Sage Student Management System is a web-based application developed as part of m
   - React
   - React Router
   - Redux for state management
-  - Bootstrap for UI components
-  - Chart.js for data visualization
+  - Material for UI components
 
 - **Backend:**
   - Node.js with Express.js
   - MongoDB for data storage
   - Mongoose for database modeling
-  - Passport.js for authentication
+  - JWT (JSON Web Tokens) for authentication
 
 - **Deployment:**
   - Render (backend)
@@ -47,11 +46,3 @@ Sage Student Management System is a web-based application developed as part of m
 ## Getting Started
 
 To run this project locally or deploy it, follow the instructions below.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/sage-student-management-system.git
-   cd sage-student-management-system
