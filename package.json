@@ -1,5 +1,6 @@
 {
-  "name": "app",
+  "homepage": "https://a6ell.github.io/Sage-Student-Management-System",
+  "name": "sage-student-management-system",
   "version": "1.0.0",
   "description": "",
   "private": true,
